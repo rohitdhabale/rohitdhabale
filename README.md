@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rohitdhabale
-- 👀 I’m interested in Web Development,Android Development
-- 🌱 I’m currently learning Web Designing and Development
-- 💞️ I’m looking to collaborate on Web Development Project
+- 👀 I’m interested in Web application Security 
+- 🌱 I’m currently learning Web application security.
+
 
 
 <!---
